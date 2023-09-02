@@ -1,0 +1,5 @@
+name: VRB
+version: '${project.version}'
+main: net.vrb.VRB
+author: xperikss
+description: 2fa plugin for bungeecord
